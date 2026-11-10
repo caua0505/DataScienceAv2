@@ -1,0 +1,17 @@
+{
+  "id": "exemplo_demonstracao_001",
+  "observacao": "Dados de entrada fictícios e plausíveis, criados apenas para demonstrar a inferência. Não fazem parte da base nem são resultados do treinamento.",
+  "CRIM": 0.25,
+  "ZN": 12.5,
+  "INDUS": 7.0,
+  "CHAS": 0,
+  "NOX": 0.52,
+  "RM": 6.4,
+  "AGE": 65.0,
+  "DIS": 4.2,
+  "RAD": 5,
+  "TAX": 300,
+  "PTRATIO": 18.0,
+  "B": 390.0,
+  "LSTAT": 10.5
+}
